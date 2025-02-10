@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F409&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Laura!)](https://git.io/typing-svg)
 
-A Front-end developer sharing my journey and learnings in tech.
+A Front-end developer.
 
 ![Laura's GitHub Stats](https://github-readme-stats.vercel.app/api?username=laura-barcellos&show_icons=true&title_color=F7F409&text_color=F7F409&icon_color=F7F409&bg_color=0D1117&hide_border=true)
 
