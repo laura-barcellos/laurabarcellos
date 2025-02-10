@@ -6,7 +6,7 @@ A Front-end developer sharing my journey and learnings in tech.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laura-barcellos&layout=compact&title_color=F7F409&text_color=F7F409&bg_color=0D1117&hide_border=true)
 
-### 🛠️ Tech Stack
+### My Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
