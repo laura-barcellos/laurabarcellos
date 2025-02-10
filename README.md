@@ -2,8 +2,9 @@
 
 👩‍💻 A Front-end developer sharing my journey and learnings in tech.
 
-| ![Laura's GitHub Stats](https://github-readme-stats.vercel.app/api?username=laura-barcellos&show_icons=true&title_color=F7F409&text_color=F7F409&icon_color=F7F409&bg_color=000000&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laura-barcellos&layout=compact&title_color=F7F409&text_color=F7F409&bg_color=000000&hide_border=true) |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+![Laura's GitHub Stats](https://github-readme-stats.vercel.app/api?username=laura-barcellos&show_icons=true&title_color=F7F409&text_color=F7F409&icon_color=F7F409&bg_color=0D1117&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laura-barcellos&layout=compact&title_color=F7F409&text_color=F7F409&bg_color=0D1117&hide_border=true)
 
 ### 🛠️ Tech Stack
 
