@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F409&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Laura!)](https://git.io/typing-svg)
 
-🐱‍💻 A Front-end developer.
+### GitHub Stats
 
-![Laura's GitHub Stats](https://github-readme-stats.vercel.app/api?username=laura-barcellos&show_icons=true&title_color=F7F409&text_color=F7F409&icon_color=F7F409&bg_color=0D1117&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laura-barcellos&layout=compact&title_color=F7F409&text_color=F7F409&bg_color=0D1117&hide_border=true)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=laura-barcellos&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=false&order=1" height="138" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laura-barcellos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=false&order=2" height="137" alt="languages graph"  />
+</div>
 
 ### My Stack
 
