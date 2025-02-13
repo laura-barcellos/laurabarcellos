@@ -22,7 +22,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laura-barcellos/laura-barcellos/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/laura-barcellos/laura-barcellos/output/github-contribution-grid-snake.svg">
 </picture>
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=laura-barcellos.laura-barcellos&left_color=darkblue"  />
+<br>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=laura-barcellos.laura-barcellos&left_color=darkblue"/>
 
 ###
