@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&duration=3500&pause=1000&color=F0F0F0&center=true&vCenter=true&width=500&height=70&lines=Hello+World!;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 ### GitHub Stats
 
